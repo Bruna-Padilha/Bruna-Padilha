@@ -4,7 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=BrunaPadilha&color=8a2be2&style=flat-square&label=VISITAS" alt="Views" />
 
-
 ---
 
 </div>
@@ -33,15 +32,12 @@
 
 ---
 
-## 📊 Stats 
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaPadilha&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=8a2be2&text_color=ffffff&icon_color=8a2be2&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaPadilha&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=8a2be2&text_color=ffffff&hide_border=true" />
-</div>
 
----
+| 🏆 Contributions Streak | 📈 General Stats |
+| :---: | :---: |
+| <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaPadilha&theme=tokyonight&background=0D1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" /> | <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunaPadilha&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&hide_title=true" /> |
 
-<div align="center">
-  <sub>Feito com 💜 e código.</sub>
 </div>
