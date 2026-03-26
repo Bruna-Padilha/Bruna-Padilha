@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 Welcome to My Space (GitHub Edition) 🖤
+# 💜 Welcome to <s>My Space</s> GitHub Profile 🖤
 
 <img src="https://komarev.com/ghpvc/?username=BrunaPadilha&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
@@ -19,7 +19,6 @@
 ## 🔮 About Me
 * **Status:** Coding the future... 👩‍💻
 * **Level:** Software Engineering Student @ Uniamérica
-* **Current Mission:** Mastering the art of C, C++, and Python.
 * **Vibe:** Dark mode everything.
 
 ---
@@ -48,7 +47,7 @@
 ---
 
 ## 🎮 Off-Duty
-> "When I'm not debugging, you can find me in Wraeclast playing **Path of Exile 2** or hanging out with my cat."
+> "When I'm not debugging, you can find me wrapped up in a burrito playing games surrounded by cats."
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/moki25/moki25/master/dancing-line.gif" width="100%"/>
