@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bruna-Padilha/Bruna-Padilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💜 Welcome to My Space (GitHub Edition) 🖤
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=BrunaPadilha&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ♫ Now Playing: *Programming in the Dark* ♫
+0:45 ───🖤──────── 3:30
+⇄      ◃◃      II      ▹▹      ↻
+
+---
+
+<img src="https://raw.githubusercontent.com/moki25/moki25/master/dancing-line.gif" width="100%"/>
+
+</div>
+
+## 🔮 About Me
+* **Status:** Coding the future... 👩‍💻
+* **Level:** Software Engineering Student @ Uniamérica
+* **Current Mission:** Mastering the art of C, C++, and Python.
+* **Vibe:** Dark mode everything.
+
+---
+
+## 🛠 My Toolkit (Top Friends)
+
+### 💻 Languages & Logic
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230a45d1.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Stats (The Rankings)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaPadilha&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=8a2be2&text_color=ffffff&icon_color=8a2be2&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaPadilha&layout=compact&theme=tokyonight&bg_color=1a1a1a&title_color=8a2be2&text_color=ffffff&hide_border=true" />
+</div>
+
+---
+
+## 🎮 Off-Duty
+> "When I'm not debugging, you can find me in Wraeclast playing **Path of Exile 2** or hanging out with my cat."
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/moki25/moki25/master/dancing-line.gif" width="100%"/>
+  <p><i>"Thanks for stopping by! Don't forget to leave a star."</i></p>
+</div>
