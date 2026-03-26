@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 Welcome to <s>My Space</s> GitHub Profile 🖤
+# 💜 Welcome to my <s>MySpace</s> GitHub Profile 🖤
 
 <img src="https://komarev.com/ghpvc/?username=BrunaPadilha&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
