@@ -2,7 +2,18 @@
 
 # 🔮 Bruna Padilha | Software Engineering 
 
+<div align="center">
+  
+![snake gif](https://github.com/Bruna-Padilha/Bruna-Padilha/blob/output/github-snake-dark.svg)
+
+</div>
+
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=BrunaPadilha&color=8a2be2&style=flat-square&label=VISITAS" alt="Views" />
+</div>
+
+
 
 ---
 
@@ -32,8 +43,4 @@
 
 ---
 
-<div align="center">
 
-![snake gif](https://github.com/Bruna-Padilha/Bruna-Padilha/blob/output/github-snake-dark.svg)
-
-</div>
