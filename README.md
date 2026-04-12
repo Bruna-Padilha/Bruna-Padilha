@@ -32,12 +32,8 @@
 
 ---
 
-## 📊 GitHub Overview
-
 <div align="center">
 
-| 🏆 Contributions Streak | 📈 General Stats |
-| :---: | :---: |
-| <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaPadilha&theme=tokyonight&background=0D1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" /> | <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunaPadilha&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&hide_title=true" /> |
+![snake gif](https://github.com/Bruna-Padilha/Bruna-Padilha/blob/output/github-snake-dark.svg)
 
 </div>
