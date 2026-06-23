@@ -18,7 +18,7 @@
 
 ## 📑 About
  • 🎓 **Education:** Software Engineering student at **Uniamérica**.</br>
- • 💼 **Career:** Currently working as a **Support Intern**.</br>
+ • 💼 **Career:** Currently working as a **QA Intern**.</br>
  • 🗣️ **Languages:** Brazilian Portuguese (Native) | English (Advanced - C1 Level) | Spanish (Basic)</br>
  • 🛠️ **Current Focus:** Sharpening my logic in low-level languages and Web Development.</br>
 
